@@ -3,6 +3,8 @@
 
 <img src="https://github.com/SKKSaikia/CrossDroad/blob/master/res/game.jpg">
 
+    Play with your keyboard keys.
+
 Gameplay
 -
 <img src="https://github.com/SKKSaikia/CrossDroad/blob/master/res/joy.gif">
